@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Software Engineering, SAAS**
 
-- 📫 How to reach me **vahekarenaslanyanca@gmail.com**
+- 📫 How to reach me **vahe@lunartech.ai**
 
 - ⚡ Fun fact **My code isn’t slow, it’s just on energy-saving mode. Think green!**
 
