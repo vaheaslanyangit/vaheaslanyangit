@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaheaslanyan7" target="blank"><img src="https://img.shields.io/twitter/follow/vaheaslanyan7?logo=twitter&style=for-the-badge" alt="vaheaslanyan7" /></a> </p>
 
-- 🔭 I’m currently working on [LunarTech](https://lunartech.ai/) and [CrownImpact](https://crownimpact.io)
+- 🔭 I’m currently working on [LUNARTECH](https://lunartech.ai/)
 
 - 🌱 I’m currently learning **AI/ML**
 
