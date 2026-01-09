@@ -31,10 +31,10 @@ My work is characterized by a "Substance-First" philosophy, bridging the gap bet
 
 LunarTech operates at the intersection of Academia and Industry, engineering the tools and frameworks that define the next generation of technical excellence.
 
-*   **Babel & Octavia** — Proprietary architectures designed to streamline developer workflows and enhance system intelligence.
 *   **LunarTech Academy** — A global powerhouse reaching an audience of over **100 million**. With **100+ deployed courses** and multiple technical handbooks, the Academy is an industry benchmark for high-level technical mastery.
 *   **Flagship Bootcamps** — Home to the world’s most sought-after **AI Engineering** and **Data Science** bootcamps.
-*   **Institutional Mission** — Driven by human empowerment, we provide intensive support—including **1-on-1 tutoring**—to remove barriers to professional entry for developers worldwide.
+*   **Babel & Octavia** — Proprietary architectures designed to streamline developer workflows and enhance system intelligence.
+*   **Institutional Mission** — Driven by human empowerment, we provide intensive academical support—including to remove barriers to professional entry for developers worldwide.
 
 ---
 
