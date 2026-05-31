@@ -33,6 +33,32 @@ Around those agents sits the rest of the software — the AI systems, the conten
 - **Babel** — Advanced document translator that localizes complex technical documents across languages while preserving structure, formatting, and meaning.
 - **Octavia** — Advanced video translator and multilingual course localization AI — a Multi-Modal RAG system for end-to-end video translation and dubbing, integrating Azure, AWS, and OpenAI (Whisper / TTS) models for high-quality multilingual output.
 
+---
+
+## 🧪 LUNARTECH LABS — Product Studio
+
+LUNARTECH LABS is the applied-AI product studio behind LunarTech's software portfolio — translation engines, knowledge systems, media platforms, and agentic developer tooling. Each product below is a standalone system built and shipped by the LABS team.
+
+- **Aura** — LunarTech's book-publishing arm, producing and releasing full-length books and handbooks.
+- **Babel** — Document and book translation tool combining Agentic OCR with LLMs to translate while preserving original layout, tables, and formatting.
+- **Babel Extreme** — End-to-end pipeline that translates scanned, image-only foreign-language PDFs into fully formatted English documents (OCR + LLM translation + PDF reconstruction).
+- **Dark Phoenix** — SaaS platform that turns full-length podcasts and videos into viral short-form clips for YouTube Shorts and TikTok, with active-speaker cropping and auto-captions.
+- **Edge** — LunarTech's Learning Management System (LMS) powering courses, cohorts, and student progress.
+- **Imagine** — AI-powered visual generation web app (imagine.lunartech.ai).
+- **Lens** — LunarTech's media and tech-journalism department, publishing articles, editorials, podcasts, and video on AI, robotics, energy, and deep tech.
+- **Luna** — LunarTech LABS product (in development).
+- **Memento** — Hyperpersonalized AI learning companion (NotebookLM-style) that turns uploaded sources into chat, audio overviews, simulations, and custom multimedia.
+- **Octavia** — Multilingual video and course translation/localization AI that dubs and localizes spoken content end-to-end across languages.
+- **Odyssey** — Intelligent large-scale document home — a repository and knowledge platform for organizing and querying documents.
+- **Phoenix** — A fleet of 100+ AI agents for content creation, research, course generation, SEO, and automated knowledge work.
+- **Simon** — Self-hosted social-media publishing system (Postiz-based) with working PDF uploads and LinkedIn document/carousel posting.
+- **SilverAI (Silver)** — Autonomous Knowledge Engine that researches and writes high-stakes professional documents, scaling from 1-page summaries to 1,000-page manuals with a deep-research agent.
+- **Superpowers** — Complete agentic software-development workflow built from composable "skills" that give coding agents spec-driven, test-driven, subagent-orchestrated development.
+- **Trilogy** — Platform connecting individual capital to private markets, opening private-equity and venture access historically reserved for institutional LPs.
+- **Valeria** — AI-powered unified sales engine that replaces 10–15 disconnected tools, connecting enterprise knowledge, content, ads, outreach, inbound, and analytics in one system.
+
+---
+
 ### LunarTech Labs — Applied AI Systems
 
 - **Phoenix** — Proprietary platform of specialized AI agents and LLMs for server-side content generation, research, course creation, and SEO — scaled to **300+ autonomous multi-modal agents** that drove a **10M+ view increase in a single month with zero ad spend**.
@@ -106,30 +132,6 @@ A custom 3D-printed 4-inch FPV drone using a dead-cat + pusher geometry to clear
 A flying-wing UAV platform in the Nomad lineup, available alongside its dedicated frame kit.
 
 > Each model is also offered as a bare frame: `max-frame`, `moose-frame`, `blackbee-frame`, `whitebee-frame`, `vixen-frame`, `wings-frame`.
-
----
-
-## 🧪 LUNARTECH LABS — Product Studio
-
-LUNARTECH LABS is the applied-AI product studio behind LunarTech's software portfolio — translation engines, knowledge systems, media platforms, and agentic developer tooling. Each product below is a standalone system built and shipped by the LABS team.
-
-- **Aura** — LunarTech's book-publishing arm, producing and releasing full-length books and handbooks.
-- **Babel** — Document and book translation tool combining Agentic OCR with LLMs to translate while preserving original layout, tables, and formatting.
-- **Babel Extreme** — End-to-end pipeline that translates scanned, image-only foreign-language PDFs into fully formatted English documents (OCR + LLM translation + PDF reconstruction).
-- **Dark Phoenix** — SaaS platform that turns full-length podcasts and videos into viral short-form clips for YouTube Shorts and TikTok, with active-speaker cropping and auto-captions.
-- **Edge** — LunarTech's Learning Management System (LMS) powering courses, cohorts, and student progress.
-- **Imagine** — AI-powered visual generation web app (imagine.lunartech.ai).
-- **Lens** — LunarTech's media and tech-journalism department, publishing articles, editorials, podcasts, and video on AI, robotics, energy, and deep tech.
-- **Luna** — LunarTech LABS product (in development).
-- **Memento** — Hyperpersonalized AI learning companion (NotebookLM-style) that turns uploaded sources into chat, audio overviews, simulations, and custom multimedia.
-- **Octavia** — Multilingual video and course translation/localization AI that dubs and localizes spoken content end-to-end across languages.
-- **Odyssey** — Intelligent large-scale document home — a repository and knowledge platform for organizing and querying documents.
-- **Phoenix** — A fleet of 100+ AI agents for content creation, research, course generation, SEO, and automated knowledge work.
-- **Simon** — Self-hosted social-media publishing system (Postiz-based) with working PDF uploads and LinkedIn document/carousel posting.
-- **SilverAI (Silver)** — Autonomous Knowledge Engine that researches and writes high-stakes professional documents, scaling from 1-page summaries to 1,000-page manuals with a deep-research agent.
-- **Superpowers** — Complete agentic software-development workflow built from composable "skills" that give coding agents spec-driven, test-driven, subagent-orchestrated development.
-- **Trilogy** — Platform connecting individual capital to private markets, opening private-equity and venture access historically reserved for institutional LPs.
-- **Valeria** — AI-powered unified sales engine that replaces 10–15 disconnected tools, connecting enterprise knowledge, content, ads, outreach, inbound, and analytics in one system.
 
 ---
 
