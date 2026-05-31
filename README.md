@@ -264,7 +264,7 @@ Partnered with and accepted into the startup / founder programs of the world's l
 The systems above weren't built from a tutorial — each one forced a specific, hard-won skill. This is what they add up to.
 
 ### AI & LLM Engineering
-- **Agentic systems** — designing multi-agent architectures (Phoenix's 100+ agents, the YouTube full-stack AI team), with role decomposition, tool routing, planning/critique loops, and long-horizon autonomous execution.
+- **Agentic systems** — designing multi-agent architectures with role decomposition, tool routing, planning/critique loops, and long-horizon autonomous execution.
 - **LLM application development** — prompt engineering and prompt architecture, structured output, function/tool calling, system-prompt design, guardrails and multi-model "smart barrier" safety routing across Claude, GPT, and Gemini.
 - **Retrieval-Augmented Generation (RAG)** — end-to-end pipelines with LangChain and LlamaIndex, vector databases (Pinecone), multi-model embeddings, chunking strategies, hybrid search, re-ranking, and multi-document query orchestration with tool routing.
 - **Fine-tuning & model adaptation** — supervised fine-tuning of LLMs on domain data (YouTube comment-intelligence models), dataset curation, and evaluation.
