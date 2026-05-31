@@ -26,11 +26,7 @@ Deep Tech • Healthcare • Aviation • Propulsion Systems • Defense • Aut
 
 Most of what I build is software. The center of gravity is software — systems that take chaos, open-ended goal and carry it all the way to a finished engineering: translating entire books while keeping their formatting intact, dubbing and localizing video courses across languages, running multi-source research, drafting long documents, and automating the parts of knowledge work that never scaled by hand.
 
-Around those agents sits the rest of the software — the RAG systems, the content and media pipelines, the publishing and learning platforms, the sales engine. Different surfaces, same underlying work: understand the problem, design the architecture, and write the code that makes it run reliably without a person in the loop for every step.
-
-That same engineering instinct also reaches into the physical world. It's where the drones and turbojet engines come from — the same habit of breaking a hard problem into systems, just with a payload and real thrust instead of an API. It's the part people don't expect, and the clearest proof of how far one way of solving problems can travel.
-
-The throughline across all of it is a *Substance-First* approach: most of these started as problems that were messy or awkward to solve cleanly, and the goal was always the same — get them shipped, running, and actually used rather than left as ideas. What follows is the catalog, grouped by domain, each line a system I helped design and build.
+Around those agents sits the rest of the software — the AI systems, the content and media pipelines, the publishing and learning platforms, the sales engine. Different surfaces, same underlying work: understand the problem, design the architecture, and write the code that makes it run reliably.
 
 ### Flagship — Babel & Octavia Worlds
 
