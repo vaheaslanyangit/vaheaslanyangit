@@ -35,7 +35,7 @@ Around those agents sits the rest of the software — the AI systems, the conten
 
 ---
 
-## 🧪 LUNARTECH LABS — Product Studio
+## 🧪 LUNARTECH LABS — Studio
 
 LUNARTECH LABS is the applied-AI product studio behind LunarTech's software portfolio — translation engines, knowledge systems, media platforms, and agentic developer tooling. Each product below is a standalone system built and shipped by the LABS team.
 
